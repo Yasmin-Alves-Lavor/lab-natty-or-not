@@ -26,18 +26,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Decidi fazer um artigo sobre a origem do video-game.
 
 ## 🤖 Tecnologias Utilizadas
-#### ChatGPT
-#### Copilot
-#### Paragraph AI
-#### Simplified
+ChatGPT
+Copilot
+Paragraph AI
+Simplified
 
 ## 🧐 Processo de Criação
 Utilizei o ChatGPT, uma inteligência artificial, para obter um resumo inicial e pontos chave sobre o tema. Para organizar minhas ideias e garantir que o artigo fosse coeso e bem estruturado, dividi-o em seções principais
-#### Fiz solicitação ao ChatGPT:
-#### "Escreva uma introdução para um artigo sobre a origem dos videogames."
-#### "Escreva um parágrafo sobre a revolução dos videogames nos anos 80 e 90, destacando a Nintendo, a Sega e a Sony."
-#### "Escreva uma conclusão para um artigo sobre a origem dos videogames."
-#### "Revise o seguinte parágrafo para melhorar a clareza e corrigir erros gramaticais:"
+Fiz solicitação ao ChatGPT:
+"Escreva uma introdução para um artigo sobre a origem dos videogames."
+"Escreva um parágrafo sobre a revolução dos videogames nos anos 80 e 90, destacando a Nintendo, a Sega e a Sony."
+"Escreva uma conclusão para um artigo sobre a origem dos videogames."
+"Revise o seguinte parágrafo para melhorar a clareza e corrigir erros gramaticais:"
 
 ## 🚀 Resultados
 A Origem dos Videogames
