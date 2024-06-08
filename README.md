@@ -23,16 +23,41 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Decidi fazer um artigo sobre a origem do video-game.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+#### ChatGPT
+#### Copilot
+#### Paragraph AI
+#### Simplified
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT, uma inteligência artificial, para obter um resumo inicial e pontos chave sobre o tema. Para organizar minhas ideias e garantir que o artigo fosse coeso e bem estruturado, dividi-o em seções principais
+#### Fiz solicitação ao ChatGPT:
+#### "Escreva uma introdução para um artigo sobre a origem dos videogames."
+#### "Escreva um parágrafo sobre a revolução dos videogames nos anos 80 e 90, destacando a Nintendo, a Sega e a Sony."
+#### "Escreva uma conclusão para um artigo sobre a origem dos videogames."
+#### "Revise o seguinte parágrafo para melhorar a clareza e corrigir erros gramaticais:"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A Origem dos Videogames
+Introdução
+Os videogames se tornaram uma parte integral da cultura moderna, influenciando diversas áreas como entretenimento, educação e até a saúde mental. No entanto, a origem dessa forma de entretenimento interativo é uma história fascinante de inovação e criatividade que começou há várias décadas. Este artigo explorará a evolução dos videogames desde suas primeiras invenções até se tornarem a indústria bilionária que conhecemos hoje.
+
+Subtópico 1: Os Primeiros Experimentos
+A história dos videogames remonta aos anos 1950 e 1960, quando cientistas e engenheiros começaram a experimentar com jogos simples em computadores de grande porte. Um dos primeiros exemplos é o jogo "Tennis for Two", criado em 1958 por William Higinbotham. Usando um osciloscópio, o jogo simulava uma partida de tênis, sendo considerado um dos primeiros jogos eletrônicos interativos.
+
+Outro marco importante foi "Spacewar!", desenvolvido em 1962 por Steve Russell e colegas no MIT. Este jogo de combate espacial rodava em um computador PDP-1 e é frequentemente citado como o precursor dos videogames modernos. "Spacewar!" introduziu conceitos como o controle do jogador e a física no jogo, que são fundamentais até hoje.
+
+Subtópico 2: A Era dos Arcades e Consoles
+Os anos 1970 marcaram o início da era dos arcades e consoles domésticos, que popularizaram os videogames e os tornaram acessíveis ao público em geral. Em 1972, Nolan Bushnell e Ted Dabney fundaram a Atari, lançando "Pong", um jogo de tênis simples que se tornou um fenômeno nos arcades.
+
+Simultaneamente, a Magnavox lançou o Odyssey, o primeiro console doméstico de videogame. Embora seus gráficos fossem rudimentares, o Odyssey estabeleceu o conceito de jogar videogames na televisão de casa. Durante esta década, outros consoles surgiram, como o Atari 2600, que permitia trocar cartuchos de jogos, expandindo as possibilidades de entretenimento.
+
+Subtópico 3: A Revolução dos Anos 80 e 90
+A década de 1980 foi um período de grande expansão e inovação para os videogames. A Nintendo lançou o Famicom no Japão em 1983, que foi renomeado para Nintendo Entertainment System (NES) ao ser lançado no Ocidente em 1985. Este console introduziu personagens icônicos como Mario, Donkey Kong e Zelda, solidificando a Nintendo como uma das maiores empresas de videogames do mundo.
+
+Nos anos 1990, a indústria viu a ascensão de concorrentes como a Sega e a Sony. A Sega lançou o Genesis (Mega Drive) em 1989, enquanto a Sony revolucionou o mercado com o lançamento do PlayStation em 1994, introduzindo jogos em CD e gráficos 3D avançados. Este período também viu o surgimento de franquias de jogos que se tornaram lendas, como "Final Fantasy", "Street Fighter" e "The Legend of Zelda".
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
